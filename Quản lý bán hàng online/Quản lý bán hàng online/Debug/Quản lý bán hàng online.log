@@ -1,0 +1,9 @@
+﻿  Quản lý bán hàng online.cpp
+C:\Users\Windows\Source\Repos\Quản lý bán hàng online\Quản lý bán hàng online\Quản lý bán hàng online.cpp(116,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Windows\Source\Repos\Quản lý bán hàng online\Quản lý bán hàng online\Quản lý bán hàng online.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Windows\Source\Repos\Quản lý bán hàng online\Quản lý bán hàng online\Quản lý bán hàng online.cpp(135,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Windows\Source\Repos\Quản lý bán hàng online\Quản lý bán hàng online\Quản lý bán hàng online.cpp(137,11): warning C4129: 'G': unrecognized character escape sequence
+C:\Users\Windows\Source\Repos\Quản lý bán hàng online\Quản lý bán hàng online\Quản lý bán hàng online.cpp(145,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Windows\Source\Repos\Quản lý bán hàng online\Quản lý bán hàng online\Quản lý bán hàng online.cpp(147,11): warning C4129: 'G': unrecognized character escape sequence
+C:\Users\Windows\Source\Repos\Quản lý bán hàng online\Quản lý bán hàng online\Quản lý bán hàng online.cpp(152,20): warning C4018: '<': signed/unsigned mismatch
+  Quản lý bán hàng online.vcxproj -> C:\Users\Windows\Source\Repos\Quản lý bán hàng online\Debug\Quản lý bán hàng online.exe
